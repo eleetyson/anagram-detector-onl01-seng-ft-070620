@@ -10,7 +10,8 @@ class Anagram
   
   def match(words)
     
-    # loop through each 
+    # loop through every word in the words array
+    # turn it into
   end
   
 end
