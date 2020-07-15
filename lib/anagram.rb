@@ -9,7 +9,7 @@ class Anagram
   end
   
   def match(words)
-    words.select do {||}  
+    words.select do |i|  
     # loop through every word in the words array
     # turn the word into an array, sort it
     # check whether it's equal to @word, turned into an array and sorted
