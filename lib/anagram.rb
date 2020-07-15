@@ -11,7 +11,7 @@ class Anagram
   def match(words)
     
     # loop through every word in the words array
-    # turn the word into an array, sort it. Check whether it's equal to @word, sorted
+    # turn the word into an array, sort it. Check whether it's equal to @word, turned into an array and sorted
   end
   
 end
